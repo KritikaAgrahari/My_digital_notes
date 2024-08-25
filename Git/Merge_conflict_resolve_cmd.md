@@ -65,4 +65,4 @@ This command opens the merge tool to help you resolve conflicts interactively.
 If you prefer using Dev-C++ and it supports Git integration, you might find options to resolve conflicts directly in the IDE. Check the documentation or settings within Dev-C++ for Git support.
 
 If Dev-C++ doesn't support Git natively, using the command window or an external Git GUI tool is the way to go.
-![image](https://github.com/user-attachments/assets/8d26647d-3c8f-441f-90c9-e5ba832368be)
+
