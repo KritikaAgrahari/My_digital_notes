@@ -1,29 +1,30 @@
 Basic Formatting
- ---
+ 
 Bold:
 Syntax: **text** or __text__
 Example: **Bold Text** or __Bold Text__
 Result: Bold Text
- ---
+ 
 Italic:
 Syntax: *text* or _text_
 Example: *Italic Text* or _Italic Text_
 Result: Italic Text
-Bold and Italic:
 
+Bold and Italic:
 Syntax: ***text*** or ___text___
 Example: ***Bold and Italic Text*** or ___Bold and Italic Text___
 Result: Bold and Italic Text
-Strikethrough:
 
+Strikethrough:
 Syntax: ~~text~~
 Example: ~~Strikethrough Text~~
 Result: Strikethrough Text
-Underline:
 
+Underline:
 Syntax: <u>text</u> (HTML tag)
 Example: <u>Underline Text</u>
 Result: <u>Underline Text</u>
+
 Headers
 Headers (H1 to H6):
 Syntax: # H1, ## H2, ### H3, #### H4, ##### H5, ###### H6
@@ -33,11 +34,10 @@ This is a header
 
 Links and Images
 Link:
-
 Syntax: [link text](URL)
 Example: [Google](https://www.google.com)
 Result: Google
-Image:
+
 
 Syntax: ![alt text](URL)
 Example: ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)`
