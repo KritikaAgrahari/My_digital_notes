@@ -25,19 +25,18 @@ Syntax: <u>text</u> (HTML tag)
 Example: <u>Underline Text</u>
 Result: <u>Underline Text</u>
 
-Headers
+Headers:
 Headers (H1 to H6):
 Syntax: # H1, ## H2, ### H3, #### H4, ##### H5, ###### H6
 Example: ## This is a header
 Result:
 This is a header
 
-Links and Images
+Links and Images:
 Link: add linke here
 Syntax: [link text](URL)
 Example: [Google](https://www.google.com)
 Result: Google
-
 
 Syntax: ![alt text](URL)
 Example: ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)`
