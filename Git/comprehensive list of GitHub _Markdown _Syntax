@@ -25,7 +25,7 @@ Syntax: <u>text</u> (HTML tag)
 Example: <u>Underline Text</u>
 Result: <u>Underline Text</u>
 
-Headers:
+Headers :
 Headers (H1 to H6):
 Syntax: # H1, ## H2, ### H3, #### H4, ##### H5, ###### H6
 Example: ## This is a header
