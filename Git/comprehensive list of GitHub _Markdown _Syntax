@@ -6,7 +6,7 @@ Example: **Bold Text** or __Bold Text__
 Result: Bold Text
  
 Italic:
-Syntax: *text* or _text_
+Syntax:  *text* or _text_
 Example: *Italic Text* or _Italic Text_
 Result: Italic Text
 
